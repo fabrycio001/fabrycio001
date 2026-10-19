@@ -21,11 +21,11 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabrycio001&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrycio001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🤝 Vamos nos conectar!
